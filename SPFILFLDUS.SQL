@@ -8,7 +8,7 @@
 -- *  PROCEDURE NAME: SPFILFLDUS                                  *
 -- *                                                              *
 -- *  PURPOSE: This stored is used to get detail of the files we  *
--- *           we have and get the fields of that file on the     *
+-- *              have and get the fields of that file on the     *
 -- *           basis of that file.                                *
 -- ****************************************************************
 --
